@@ -1,2 +1,2 @@
 # Redirect to my personal website
-http://194.193.183.123:8008/
+http://103.1.56.5:8008/
