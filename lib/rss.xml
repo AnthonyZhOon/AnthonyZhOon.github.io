@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Webpage]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Webpage</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 25 Apr 2024 07:07:33 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 25 Apr 2024 07:07:33 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Reading in-progress]]></title><description><![CDATA[ 
+ <br><br>The weekend and weeknight readings<br>
+<br>Programming Language Foundations in Agda
+<br>Computer Architecture: A Quantitative Approach by Hennessy and Patterson
+<br><br>I've read these at least once, I'll make add reviews and comments soon...<br><br>
+<br>Kalman and Bayesian Filters in Python; Robert Labbe
+<br>Infinite Powers: The Story of Calculus, the Language of the Universe; Steven Strogatz
+<br>The Information: A History, A Theory, A Flood; James Gleick
+<br>Chaos: Making a New Science: James Gleick
+<br>Behave: The biology of Humans at their best and worst; Robert Sapolsky
+<br>Rationality: What it is, Why it seem scarce, Why it matters; Stephen Pinker
+<br><br>
+<br>The Three Body Problem trilogy, Liu Cixin
+<br>The Stormlight Archive series, Brandon Sanderson
+<br>
+<br><br>These count as reading kinda, they fit here better than elsewhere at least.<br><br>
+<br>Theorem Proving in Lean 4<br>
+This book is more suited to those from maths undergrad. backgrounds, it dives straight into logic and reasoning.<br>
+I think the consensus is that tactics and shorthand for theorem-proving is rather powerful but gets in the way of learning
+<br>
+]]></description><link>reading-list.html</link><guid isPermaLink="false">Reading List.md</guid><pubDate>Sat, 20 Apr 2024 12:00:56 GMT</pubDate></item><item><title><![CDATA[Website Structure]]></title><description><![CDATA[ 
+ <br>This website was generated from an Obsidian notebook using the Webpage HTML Export plugin and the AnuPpuccin theme.]]></description><link>website-structure.html</link><guid isPermaLink="false">Website Structure.md</guid><pubDate>Sat, 20 Apr 2024 11:50:27 GMT</pubDate></item></channel></rss>
