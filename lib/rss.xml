@@ -1,7 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Webpage]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Webpage</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Thu, 25 Apr 2024 07:07:33 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Thu, 25 Apr 2024 07:07:33 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Reading in-progress]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Webpage]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Webpage</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 16 Jul 2024 13:25:42 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 16 Jul 2024 13:25:42 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Reading in-progress]]></title><description><![CDATA[ 
  <br><br>The weekend and weeknight readings<br>
-<br>Programming Language Foundations in Agda
-<br>Computer Architecture: A Quantitative Approach by Hennessy and Patterson
+<br>Godel Escher Bach: An Eternal Golden Braid
+<br><br>I don't think you should read textbooks end-to-end but it can be good to introduce a new domain.<br>
+<br>Computer Architecture: A Quantitative Approach, by Hennessy and Patterson
+<br>Modern Operating Systems, by Andrew Tanenbaum
 <br><br>I've read these at least once, I'll make add reviews and comments soon...<br><br>
 <br>Kalman and Bayesian Filters in Python; Robert Labbe
 <br>Infinite Powers: The Story of Calculus, the Language of the Universe; Steven Strogatz
@@ -12,11 +14,53 @@
 <br><br>
 <br>The Three Body Problem trilogy, Liu Cixin
 <br>The Stormlight Archive series, Brandon Sanderson
+<br><br>These count as reading kinda, they fit here better than elsewhere at least.<br>
+<br>Oxide Computer Company
+<br>The Joy of Why (Steve Strogatz), an introduction to the wider topics that are math-related. This got me interested in machine-checked proofs and interactive theorem provers (Lean). 
 <br>
-<br><br>These count as reading kinda, they fit here better than elsewhere at least.<br><br>
+<br><br>
 <br>Theorem Proving in Lean 4<br>
-This book is more suited to those from maths undergrad. backgrounds, it dives straight into logic and reasoning.<br>
-I think the consensus is that tactics and shorthand for theorem-proving is rather powerful but gets in the way of learning
-<br>
-]]></description><link>reading-list.html</link><guid isPermaLink="false">Reading List.md</guid><pubDate>Sat, 20 Apr 2024 12:00:56 GMT</pubDate></item><item><title><![CDATA[Website Structure]]></title><description><![CDATA[ 
- <br>This website was generated from an Obsidian notebook using the Webpage HTML Export plugin and the AnuPpuccin theme.]]></description><link>website-structure.html</link><guid isPermaLink="false">Website Structure.md</guid><pubDate>Sat, 20 Apr 2024 11:50:27 GMT</pubDate></item></channel></rss>
+This book seems suited to those from maths undergrad. backgrounds, it dives straight into logic and reasoning.<br>
+I think the consensus is that tactics and shorthand for theorem-proving is rather powerful but gets in the way of learning.<br>
+For now I've taken a break to visit Functional Programming in Lean and do the Natural Number Game first.
+<br><br>
+<br>Structure and Interpretation of Computer Programs by Hal Abelson and Gerald J. Sussman
+
+<br>The "wizard" book of computer science, was once an introductory textbook.
+
+
+<br>Purely Functional Data Structures, by Chris Okasaki
+
+<br>It seems like a hidden gem?
+
+
+<br>I bought a set a of books for programming in Elixir. I should read them.
+]]></description><link>reading-list.html</link><guid isPermaLink="false">Reading List.md</guid><pubDate>Tue, 16 Jul 2024 13:20:16 GMT</pubDate></item><item><title><![CDATA[Website Structure]]></title><description><![CDATA[ 
+ <br>This website was generated from an Obsidian notebook using the Webpage HTML Export plugin and the AnuPpuccin theme.]]></description><link>website-structure.html</link><guid isPermaLink="false">Website Structure.md</guid><pubDate>Sat, 20 Apr 2024 11:50:27 GMT</pubDate></item><item><title><![CDATA[Resources]]></title><description><![CDATA[ 
+ <br>
+<br>Natural Numbers, Logic, and Proofs:
+
+<br>The Natural Number Game in Lean4 <a rel="noopener" class="external-link" href="https://adam.math.hhu.de/" target="_blank">https://adam.math.hhu.de/</a>
+<br>It's about implementing the proofs of Peano arithmetic for natural numbers in an interactive theorem prover with a little drag and drop and UI to get you over the syntax hurdles and into hacking at proofs.
+<br>A nice place to start playing with the idioms of programmatic proofs, though it is distinctly not quite coding.
+
+
+<br><a data-tooltip-position="top" aria-label="https://www.redblobgames.com/" rel="noopener" class="external-link" href="https://www.redblobgames.com/" target="_blank">Red Blob Games</a>
+
+<br>Neat visualisations and explanations for search algorithms, from the basics to A* and irregular grids and visibility algorithms.
+<br>Also a blog
+
+
+<br>Agner Fog <a data-tooltip-position="top" aria-label="https://www.agner.org" rel="noopener" class="external-link" href="https://www.agner.org" target="_blank">agner.org</a>
+
+<br>Mysterious biology professor with low-level software optimisation guides
+
+
+<br>Paul Hsieh's stuff on assembly and optimisation <a rel="noopener" class="external-link" href="http://www.azillionmonkeys.com/qed/asmexample.html" target="_blank">http://www.azillionmonkeys.com/qed/asmexample.html</a>
+<br>Algorithmica, an open-access book for Algorithms for Modern Hardware <a rel="noopener" class="external-link" href="https://en.algorithmica.org/" target="_blank">https://en.algorithmica.org/</a>
+
+<br>Pretty broad introduction of performance optimisation for hardware
+<br>Interesting case studies of applying the techniques described to optimise classics like binary search, GCD.
+
+
+]]></description><link>resources.html</link><guid isPermaLink="false">Resources.md</guid><pubDate>Tue, 16 Jul 2024 13:16:05 GMT</pubDate></item></channel></rss>
