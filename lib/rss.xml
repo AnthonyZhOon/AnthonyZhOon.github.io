@@ -1,4 +1,10 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Webpage]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Webpage</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 16 Jul 2024 13:25:42 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 16 Jul 2024 13:25:42 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Reading in-progress]]></title><description><![CDATA[ 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Webpage]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>Webpage</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sun, 15 Sep 2024 06:59:44 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sun, 15 Sep 2024 06:59:44 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Functional Programming Notes]]></title><description><![CDATA[ 
+ <br><img style="max-width:400px; " class="excalidraw-svg excalidraw-embedded-img excalidraw-canvas-immersive" src="blob://3f66d8d6-ee18-4ca5-9dec-fb9569084921" filesource="excalidraw/ApplicativeParser(2).excalidraw.md" w="400" draggable="false" oncanvas="false">]]></description><link>functional-programming-notes.html</link><guid isPermaLink="false">Functional Programming Notes.md</guid><pubDate>Sun, 15 Sep 2024 06:57:45 GMT</pubDate><enclosure url="blob:app://obsidian.md/3f66d8d6-ee18-4ca5-9dec-fb9569084921" length="0" type="false"/><content:encoded>&lt;figure&gt;&lt;img src="blob:app://obsidian.md/3f66d8d6-ee18-4ca5-9dec-fb9569084921"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Website Structure]]></title><description><![CDATA[ 
+ <br>This website was generated from an Obsidian notebook using the Webpage HTML Export plugin and the AnuPpuccin theme.<br>Plugins:<br>
+<br>Excalidraw
+<br>Webpage HTML Export 
+<br>AnuPpuccin Theme
+]]></description><link>website-structure.html</link><guid isPermaLink="false">Website Structure.md</guid><pubDate>Sun, 15 Sep 2024 06:59:28 GMT</pubDate></item><item><title><![CDATA[Reading in-progress]]></title><description><![CDATA[ 
  <br><br>The weekend and weeknight readings<br>
 <br>Godel Escher Bach: An Eternal Golden Braid
 <br><br>I don't think you should read textbooks end-to-end but it can be good to introduce a new domain.<br>
@@ -35,8 +41,7 @@ For now I've taken a break to visit Functional Programming in Lean and do the Na
 
 
 <br>I bought a set a of books for programming in Elixir. I should read them.
-]]></description><link>reading-list.html</link><guid isPermaLink="false">Reading List.md</guid><pubDate>Tue, 16 Jul 2024 13:20:16 GMT</pubDate></item><item><title><![CDATA[Website Structure]]></title><description><![CDATA[ 
- <br>This website was generated from an Obsidian notebook using the Webpage HTML Export plugin and the AnuPpuccin theme.]]></description><link>website-structure.html</link><guid isPermaLink="false">Website Structure.md</guid><pubDate>Sat, 20 Apr 2024 11:50:27 GMT</pubDate></item><item><title><![CDATA[Resources]]></title><description><![CDATA[ 
+]]></description><link>reading-list.html</link><guid isPermaLink="false">Reading List.md</guid><pubDate>Tue, 16 Jul 2024 13:20:16 GMT</pubDate></item><item><title><![CDATA[Resources]]></title><description><![CDATA[ 
  <br>
 <br>Natural Numbers, Logic, and Proofs:
 
